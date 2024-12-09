@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\HW_LAB3\HW_LAB3.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\V2\Main.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Main.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
